@@ -1,5 +1,5 @@
 # mybatisboot
-    SpringBoot + MyBatis + Druid
+    SpringBoot2.0 + MyBatis3 + Druid + MySQL5.7 + Maven3.5 + JDK1.8
 # Spring Boot 项目启动图
 ![Spring Boot 项目启动图](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/MybatisBoot/20180828113901_startUp.jpg)
 # Postman 接口测试图
