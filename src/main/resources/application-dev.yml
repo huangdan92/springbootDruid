@@ -13,7 +13,7 @@ spring:
         druid:
           filters: stat
           driver-class-name: com.mysql.jdbc.Driver
-          url: jdbc:mysql://127.0.0.1:3306/eolinker_os?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+          url: jdbc:mysql://192.168.43.103:3306/springboot?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
           username: root
           password: root
           initial-size: 1
